@@ -8,6 +8,7 @@ AsmNext is a startup that uses WASM (WebAssembly) to solve problems in the progr
 
 ### Recent projects
   * Porting iwasm to PHP-based web hostings
+  * Porting antivirus engine to WASM
   * Designing Excel mecro over WASM
   * Designing the embeddedable security module for PKI-related firm
 
