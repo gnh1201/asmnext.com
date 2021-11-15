@@ -3,8 +3,8 @@
 AsmNext is a startup that uses WASM (WebAssembly) to solve problems in the programming industry that have not been solved before.
 
 ### Members
-  * @gnh1201
-  * @ssainball
+  * @ssainball (CEO)
+  * @gnh1201 (Research Planning)
 
 ### Recent projects
   * Porting iwasm to PHP-based web hostings
