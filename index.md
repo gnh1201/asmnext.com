@@ -10,7 +10,7 @@ AsmNext is a startup that uses WASM (WebAssembly) to solve problems in the progr
   * Porting iwasm to PHP-based web hostings
   * Porting anti-malware engine to WASM runtime
   * Designing (excel) macro over WASM runtime
-  * Designing the WASM-based embeddedable security module for PKI-related firm
+  * Designing the WASM-based embeddedable security module for PKI-related firm (Alternative to ActiveX and EXE)
 
 ### Location
   * 10 Floor, 11-1, Ojosan-ro-57-beongil (57th street of Ojosan road), Gyeyang-gu, Incheon, Republic of Korea
