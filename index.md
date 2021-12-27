@@ -18,4 +18,6 @@ AsmNext is a startup that uses WASM (WebAssembly) to solve problems in the progr
   * 10 Floor, 11-1, Ojosan-ro-57-beongil (57th street of Ojosan road), Gyeyang-gu, Incheon, Republic of Korea
 
 ### Support or Contact (Join us!)
-  * gnh1201@gmail.com
+  * Telegram: https://catswords.re.kr/go/tgasmnext
+  * Kakaotalk Openchat (ko): https://catswords.re.kr/go/kakaoba
+  * Email: support@exts.kr
