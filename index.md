@@ -10,7 +10,7 @@ AsmNext is a startup that uses WASM (WebAssembly) to solve problems in the progr
   * Porting iwasm to PHP-based web hostings
   * Porting the pattern matching library to WASM runtime
   * Designing the embeddedable IoT utilities like Busybox
-  * Will be touch to the more business applications.
+  * Will be touch to the more business applications. (e.g. Microsoft Excel)
 
 ### Location
   * 10 Floor, 11-1, Ojosan-ro-57-beongil (57th street of Ojosan road), Gyeyang-gu, Incheon, Republic of Korea
