@@ -15,6 +15,9 @@ AsmNext is a startup that uses WASM (WebAssembly) to solve problems in the progr
 ### Location
   * 10 Floor, 11-1, Ojosan-ro-57-beongil (57th street of Ojosan road), Gyeyang-gu, Incheon, Republic of Korea
 
+### Press
+  * [South Korea WebAssembly Team (as known as AsmNext) Joins Bytecode Alliance (boannews.com)](https://www.boannews.com/media/view.asp?idx=105951)
+
 ### Thanks
   * Daeyong Nam (남대영) - "One day, WASM will become an indispensable technology."
   * And you.
