@@ -19,7 +19,7 @@ AsmNext is a startup that uses WASM (WebAssembly) to solve problems in the progr
   * [South Korea WebAssembly Team (as known as AsmNext) Joins Bytecode Alliance (boannews.com)](https://www.boannews.com/media/view.asp?idx=105951)
 
 ### Thanks
-  * Daeyong Nam (남대영) - "One day, WASM will become an indispensable technology."
+  * Daeyoung Nam (남대영) - "One day, WASM will become an indispensable technology."
   * And you.
 
 ### Support or Contact (Join us!)
