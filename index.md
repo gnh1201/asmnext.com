@@ -7,8 +7,8 @@ AsmNext is a startup that uses WASM (WebAssembly) to solve problems in the progr
   * @gnh1201 (Co-Founder, Researcher of [Catswords Research](https://catswords.com))
 
 ### Projects
-  *  ***WASM in the Office***: Add support WASM+WASI macro to a general-purpose wordprocessors (e.g. MS Office, LibreOffice, etc)
-  *  ***WASM Security in the web***: Porting security-purpose pattern matching libraries to Wordpress and famous web applications
+  *  ***WASM in the Office***: Add support WASM+WASI macro to a general-purpose wordprocessors. (e.g. MS Office, LibreOffice, etc)
+  *  ***WASM Security in the web***: Add support the security-purpose pattern matching tools to Wordpress and famous web applications.
 
 ### Location
   * 10 Floor, 11-1, Ojosan-ro-57-beongil (57th street of Ojosan road), Gyeyang-gu, Incheon, Republic of Korea
