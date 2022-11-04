@@ -3,14 +3,12 @@
 AsmNext is a startup that uses WASM (WebAssembly) to solve problems in the programming industry that have not been solved before.
 
 ### Members
-  * @ssainball (CEO, Representative of AsmNext)
-  * @gnh1201 (Director of Research Planning, Researcher of [Catswords Research](https://catswords.com))
+  * @ssainball (Founder, Representative of AsmNext)
+  * @gnh1201 (Co-Founder, Researcher of [Catswords Research](https://catswords.com))
 
-### Recent projects
-  * Porting iwasm to PHP-based web hostings
-  * Porting the pattern matching library to WebAssembly runtime
-  * Designing the embeddedable IoT utilities like Busybox
-  * Will be touch to the more business applications. (e.g. Microsoft Excel)
+### Projects
+  *  ***WASM in the Office***: Add support WASM+WASI macro to a general-purpose wordprocessors (e.g. MS Office, LibreOffice, etc)
+  *  ***WASM Security in the web***: Porting security-purpose pattern matching libraries to Wordpress and famous web applications
 
 ### Location
   * 10 Floor, 11-1, Ojosan-ro-57-beongil (57th street of Ojosan road), Gyeyang-gu, Incheon, Republic of Korea
